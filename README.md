@@ -2,7 +2,7 @@
 Example pipeline using Packer to create an AMI in AWS with customized configuration
 
 ## Requirements
-- Packer >= 1.5.1
+- Packer >= 1.5.1 (https://packer.io/downloads.html)
 - Python version = 3.7.5
 - Ansible = 2.9.2
 
